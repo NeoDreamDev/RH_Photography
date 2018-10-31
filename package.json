@@ -1,8 +1,9 @@
+{
   "name": "rh_photography",
   "version": "1.0.0",
   "description": "Photography site",
   "main": "index.js",
-  "homepage": "https//NeoDreamDev.gihub.io/rh_Photography"
+  "homepage": "https//NeoDreamDev.gihub.io/rh_Photography",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node.js": "^0.0.0"
