@@ -1,6 +1,7 @@
 $primary-color: #eee;
 
 @import url("https://fonts.googleapis.com/css?family=Engagement|Ultra");
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
 
 body {
   font-family: serif;
@@ -12,7 +13,7 @@ body {
 h1 {
   font-weight: 400;
   font-size: 2.5rem;
-  font-family: "Engagement", serif;
+  font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
   margin: 0;
 }
