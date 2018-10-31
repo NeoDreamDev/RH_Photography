@@ -1,0 +1,25 @@
+{
+  "name": "rh_photography",
+  "version": "1.0.0",
+  "description": "Photography site",
+  "main": "index.js",
+  "homepage": "https//neodreamdev.gihub.io/rh_photography"
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "node.js": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeoDreamDev/rh_Photography.git"
+  },
+  "author": "\"Salaam Williams\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeoDreamDev/rh_Photography/issues"
+  },
+  "homepage": "https://github.com/NeoDreamDev/rh_Photography#readme"
+}
